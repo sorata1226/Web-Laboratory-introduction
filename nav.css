@@ -1,0 +1,35 @@
+
+nav ul{
+    list-style: none;
+    overflow: hidden;
+}
+
+nav ul li{
+    display: inline;
+    float: left;
+    border-right: 1px solid #dddddd;
+}
+
+nav ul li a {
+	display: block;
+	padding: 10px 15px;
+	text-align: center;
+	text-decoration: none;
+	color: #333333;
+}
+
+
+nav ul li a:hover {
+	background: #eeffee;
+}
+ 
+nav ul li.active a {
+	background: #333333;
+	color: #eeffee;
+}
+
+
+
+article{
+	clear:all;
+}

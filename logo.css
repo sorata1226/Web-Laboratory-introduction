@@ -1,0 +1,11 @@
+
+header h1 {
+	width: 450px;
+	height: 60px;
+	background: url(logo.png) no-repeat;
+}
+
+header h1 a {
+	display: none; /*元あった文字はこれで消す*/
+
+}

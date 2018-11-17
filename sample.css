@@ -1,0 +1,15 @@
+﻿h1#title{
+font-size: 120%;
+}
+span.author{
+color: red
+}
+
+table{
+color: skyblue
+}
+
+img{
+width:50%;
+height:auto;
+}
